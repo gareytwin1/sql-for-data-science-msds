@@ -1,8 +1,6 @@
 # MS-DS SQL Labs: Structured Query Language for Data Science
 
-This repository contains my coursework for **Structured Query Language (SQL)** in the MS-DS program. It covers the origins and concepts of SQL and, more importantly, practical use of **DDL**, **DML**, and **SELECT** for analysis in relational databases. The repo is organized for reproducibility, clean style, and future reuse.
-
-> **Scope:** Analytical queries (SELECT), schema design (DDL), data manipulation (DML), performance-minded patterns, and report-ready outputs.
+This repository contains my coursework for **Structured Query Language (SQL)** in the MS-DS program at the University of Colorado Boulder. It covers the origins and concepts of SQL and, more importantly, the practical use of **DDL**, **DML**, and **SELECT** for analysis in relational databases. The repo is organized for reproducibility, clean style, and future reuse.
 
 ---
 
